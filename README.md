@@ -28,4 +28,4 @@ conda install nltk spacy
 ```
 
 ## 출처  
-모든 코드는 해당 책을 참초하여 작성되었습니다.
+All source code was written with reference to that book.
